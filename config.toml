@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Gohar Gasparyan"
+theme = "hugo-coder"
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+
+[params]
+    info = "Software Engineer"
+    avatarurl = "images/avatar.jpg"
+    hideCopyright = "true"
+    hideCredits = "true"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/gohargasparyan"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://de.linkedin.com/in/gohar-gasparyan-93a48958"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium"
+    weight = 5
+    url = "https://medium.com/@gohar.s.gasparyan"
