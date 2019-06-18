@@ -1,4 +1,4 @@
-baseURL = "http://gohargasparyan.me/"
+baseURL = "https://gohargasparyan.me/"
 languageCode = "en-us"
 title = "Gohar Gasparyan"
 theme = "hugo-coder"
