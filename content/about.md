@@ -6,6 +6,7 @@
 Lombok, JQuery, Angular, Hugo, Grails, Keycloak, etc
 * __Infrastructure__: Kubernetes, Istio, Docker, Gitlab-CI, AWS, Terraform, Okta, Datadog, Kibana, Spinnaker
 * __Other__: Gradle, Maven, IntelliJ IDEA, JIRA, Chrome Devtools, Camunda, RabbitMQ
+* __Spoken Languages__: English, Russian, Armenian, German
 
 # Experience
 
@@ -29,4 +30,14 @@ being translated from PDF format to JSON/images
 * Do "On Call" on API services where SLA is the highest and business critical
 
 ##### 2013 - 2015 -- Web Fontaine Armenia -- Full Stack Developer
+building, testing, deploying workflow based document processing applications with data-entry frontends
+for customs and other government agencies using Grails framework
+Implement various utility grails plugins, tag library that are reusable in apps
+
 ##### 2011 - 2013 -- Synergy International Systems -- Junior Developer
+Developing Data Entry modules for budgeting systems. 
+Technology stack: Java, JSF, JavaScript, JBoss Seam, MS SQL, Oracle
+
+# Education
+* Master’s Degree in Physics, Yerevan State University
+* Bachelor’s Degree in Physics, Yerevan State University
