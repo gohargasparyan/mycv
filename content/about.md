@@ -6,7 +6,7 @@
 Lombok, JQuery, Angular, Hugo, Grails, Keycloak, etc
 * __Infrastructure__: Kubernetes, Istio, Docker, Gitlab-CI, AWS, Terraform, Okta, Datadog, Kibana, Spinnaker
 * __Other__: Gradle, Maven, IntelliJ IDEA, JIRA, Chrome Devtools, Camunda, RabbitMQ
-* __Spoken Languages__: English, Russian, Armenian, German
+* __Spoken Languages__: Armenian, English, Russian, German
 
 # Experience
 
@@ -21,7 +21,7 @@ As Part of Platform Team, worked on:
 ##### 2015 - 2018 -- Bonial International GmbH -- Senior Software Engineer
 Redesign monolithic CMS system to better scalable/resilient Microservices architecture:
 
-* Used various various distributed publish-subscribe, queuing, data stream systems in a complex workflow of CMS Data 
+* Used various distributed publish-subscribe, queuing, data stream systems in a complex workflow of CMS Data 
 being translated from PDF format to JSON/images
 * Used Camunda BPMN Workflow and Decision Automation Platform for implementing human and machine tasks that are scalable
  and resilient.
