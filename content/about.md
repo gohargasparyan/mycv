@@ -1,16 +1,20 @@
 
 # Skills
-* __Languages__: Java, Golang, SQL, Javascript, Groovy, Python
+* __Languages__: Java, Kotlin, Golang, SQL, Javascript, Groovy, Python
 * __Databases__: MySQL, PostgreSQL, Redis, ElasticSearch, Dynamo DB
-* __Frameworks/Libraries__: Spring(Core, Rest, Web, Boot, Data, Data-Flow, Security), Hibernate, JUnit, Liquibase,
+* __Frameworks/Libraries__: Spring(Core, Rest, Web, Boot, Data, Data-Flow, Security), Hibernate, Micronaut, JUnit, Liquibase,
 Lombok, JQuery, Angular, Hugo, Grails, Keycloak, etc
-* __Infrastructure__: Kubernetes, Istio, Docker, Gitlab-CI, AWS, Terraform, Okta, Datadog, Kibana, Spinnaker
+* __Infrastructure__: Kubernetes, Istio, Docker, Gitlab-CI, AWS, GCP, Terraform, Okta, Datadog, Kibana, Spinnaker
 * __Other__: Gradle, Maven, IntelliJ IDEA, JIRA, Chrome Devtools, Camunda, RabbitMQ
 * __Spoken Languages__: Armenian, English, Russian, German
 
 # Experience
 
-##### May 2018 - Present -- Leverton GmbH -- Senior Software Engineer
+##### Sep 2019 - present -- Up42 -- Senior Software Engineer
+* Design, build, and scale backend architecture (based on Spring Boot, Kubernetes, terraform and Google Cloud Platform)
+* Work closely alongside product, UX and front end development team to design and implement new product features
+
+##### May 2018 - August 2019 -- Leverton GmbH -- Senior Software Engineer
 As Part of Platform Team, worked on:
 
 * Integrating our system to Kubernetes, Dockerizing and implementing CI/CD Pipelines from scratch
