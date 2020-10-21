@@ -1,26 +1,36 @@
+#  Gohar Gasparyan
+I am a generalist software engineer and I love learning new technologies. My most recent passion is powerful and yet simple language Golang, all the tooling for infrastructure written with it and the amazing community around. 
+I am most interested in b2b products, especially tools for engineers and devOps, but not only. I am looking forward to be in a kind and open but at the same time challenging envirnoment where I can contribute at my best ability and grow as a professional.
+
 
 # Skills
-* __Languages__: Java, Kotlin, Golang, SQL, Javascript, Groovy, Python
-* __Databases__: MySQL, PostgreSQL, Redis, ElasticSearch, Dynamo DB
-* __Frameworks/Libraries__: Spring(Core, Rest, Web, Boot, Data, Data-Flow, Security), Hibernate, Micronaut, JUnit, Liquibase,
-Lombok, JQuery, Angular, Hugo, Grails, Keycloak, etc
-* __Infrastructure__: Kubernetes, Istio, Docker, Gitlab-CI, AWS, GCP, Terraform, Okta, Datadog, Kibana, Spinnaker
-* __Other__: Gradle, Maven, IntelliJ IDEA, JIRA, Chrome Devtools, Camunda, RabbitMQ
+* __Languages__: Golang, NodeJS (Typescript), Java, Kotlin, SQL, Groovy
+* __Databases__: MySQL, PostgreSQL, Mongo DB, Redis, ElasticSearch
+* __Frameworks/Libraries__: GRPC, Gorrila MUX, mongoose, Spring, Hibernate, Micronaut, JUnit, Liquibase, Lombok, Grails, Keycloak, JQuery, Angular, Hugo, Gatsby, React
+* __Infrastructure__: Kubernetes, Istio, Docker, Gitlab-CI/Circle-CI, AWS, GCP, Terraform, Datadog, Grafana
 * __Spoken Languages__: Armenian, English, Russian, German
 
 # Experience
 
-##### Sep 2019 - present -- Up42 -- Senior Software Engineer
-* Design, build, and scale backend architecture (based on Spring Boot, Kubernetes, terraform and Google Cloud Platform)
-* Work closely alongside product, UX and front end development team to design and implement new product features
+##### Jul 2020 - present -- Morressier GmbH -- Senior Software Engineer
+* Design and implement API for our website and Ipad App uing NodeJs and Golang (services talk to each other using HTTP or GRPC)
+* Design and maintain async workers written in Golang, communicating mostly through Pub/Sub
+* Maintain existing infrastructure (Kubernetes + GCP)
+* Improve system availability and observability, monitor closely the system health
+* Integrate video conferencing using Vonage API
+
+##### Sep 2019 - Feb 2020 -- Up42 -- Senior Software Engineer
+* Design and implement new microservices in Kotlin/Java that communicate through Rest or Pub/Sub message queues
+* Maintain and and new resources to infrastructure running on Kubernetes in Google Cloud Platform using Terraform
+* Work closely alongside product, UX and front end development team to shape better product
 
 ##### May 2018 - August 2019 -- Leverton GmbH -- Senior Software Engineer
 As Part of Platform Team, worked on:
 
 * Integrating our system to Kubernetes, Dockerizing and implementing CI/CD Pipelines from scratch
 * Setup SSO/SAML, implement Keycloak plugins for User Federation, SAML Integration, Password Strength Polices etc
-* Implement necessary infrastructure automation tools/libraries for better processes/maintainability/automation 
-* Implement Backend Microservices as Part of redesigning current monolithic system
+* Implement necessary infrastructure automation tools/libraries for better processes/maintainability/automation (mostly Golang)
+* Implement Backend Microservices as Part of redesigning current monolithic system (mostly Java)
  
 ##### 2015 - 2018 -- Bonial International GmbH -- Senior Software Engineer
 Redesign monolithic CMS system to better scalable/resilient Microservices architecture:
